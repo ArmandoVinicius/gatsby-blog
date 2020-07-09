@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.24.1",
+    "gatsby-plugin-catch-links": "^2.3.11",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-source-filesystem": "^2.3.19",
+    "gatsby-transformer-remark": "^2.8.25",
+    "lodash": "^4.17.19",
+    "minireset.css": "0.0.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0"
+  }
+}
